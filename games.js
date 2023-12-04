@@ -102,3 +102,5 @@ const template = `
 `
 
 export default games;
+//sercet #1
+//each game has 6 properties: name, description, pledged, goal, backers, img
