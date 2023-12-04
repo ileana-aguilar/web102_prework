@@ -4,7 +4,7 @@ Submitted by: Ileana Aguilar
 
 Sea Monster Crowdfunding Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 10 hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
@@ -34,7 +34,7 @@ GIF created with Adobe
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: The javascript and git commands were the most challenging 
 
 ## License
 
