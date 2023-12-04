@@ -198,21 +198,3 @@ secondGameNameElement.textContent = secondGame.name;
 secondGameContainer.appendChild(secondGameNameElement);
 
 
-/*
-*
-challenge 0
-challenge 1 :oozedivetrappine
-
-//challenge 2: 6games-container.stats-card15
-
-challenge 3: 11seafoamGAMES_JSON
-
-challenge 4:
-19187800268BRAIN
-
-challenge 5: 74FLANNELclick
-
-challenge 6: toLocaleString<div>1ivy
-
-challenge 7: zoohowCEDAR
-*/
